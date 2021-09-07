@@ -1,0 +1,31 @@
+a[href="index1.html"]
+{position:absolute;
+top:0px;
+right:130px; }
+    a[href="index2.html"] {position:absolute;
+    top:0px;
+    right:5px; }
+  a[href="index.html"]{position:absolute;
+    top:0px;
+    right:5px;}
+ #ls{border-radius:20px; width:400px;
+ height:30px; outline: none;
+     }
+ #ls2{width:400px;
+ height:30px; border-radius:20px;
+ outline: none;}
+ div{position: absolute;  top: 50%;
+        left: 40%; }
+.button{position:absolute;
+top:55%;
+left:49%;}
+div{text-align:left;}
+#button2{position: absolute;  top: 17%;
+        left: 19%; color:white; background-color:blue; border:none; outline:none;}
+#as{position:absolute;
+left:20px;}
+.as{position:absolute;
+left:15%;}
+#button3{position:absolute;
+top:55%;
+left:42%;}
